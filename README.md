@@ -20,6 +20,11 @@ Tenho interesse em evoluir constantemente, buscando boas práticas de desenvolvi
 * ⚡ JavaScript
 * 🔧 Git & GitHub
 
+## Portfólio
+
+Acesse o portfólio completo aqui:
+Vercel: https://portfolio-ryanzine.vercel.app/
+
 ---
 
 ## 📂 Projetos em destaque
@@ -28,7 +33,7 @@ Tenho interesse em evoluir constantemente, buscando boas práticas de desenvolvi
 
 Site institucional desenvolvido com foco em design moderno e responsividade.
 
-🔗 Acesse: brasa-viva.vercel.app
+🔗 Acesse: https://brasa-viva.vercel.app/
 📁 Repositório: https://github.com/RyanZine/BrasaViva.git
 
 ---
@@ -37,8 +42,16 @@ Site institucional desenvolvido com foco em design moderno e responsividade.
 
 Landing page desenvolvida para uma cafeteria fictícia, com foco em design agradável, experiência do usuário e responsividade.
 
-🔗 Acesse: coffe-peace.vercel.app
+🔗 Acesse: https://coffe-peace.vercel.app/
 📁 Repositório: https://github.com/RyanZine/Coffe-Peace.git
+
+---
+
+### 📚 Vila dos Estudos
+Site Institucional com o objetivo de Rreforçar e ensinar matérias escolares
+
+🔗 Acesse: https://vila-dos-estudos.vercel.app/src/pages/index.html
+📁 Repositório: https://github.com/RyanZine/Vila-dos-Estudos.git
 
 ---
 
